@@ -1,0 +1,7 @@
+*{margin: 0px;padding: 0px;box-sizing: border-box;}
+h2{
+    background-color: green;color: white;
+    padding: 20px;
+}
+form{background-color: gray;color: white;padding: 15px;display: flex;justify-content: space-around;font-size: 25px;}
+button{background-color: black;color: white;padding: 5px 10px;font-size: 20px;border-radius: 100px;}
